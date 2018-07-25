@@ -1,0 +1,8 @@
+E:\FINAL_AUS\DataEngineer\DataEngineer\bin\Debug\DataEngineer.exe.config
+E:\FINAL_AUS\DataEngineer\DataEngineer\bin\Debug\DataEngineer.exe
+E:\FINAL_AUS\DataEngineer\DataEngineer\bin\Debug\DataEngineer.pdb
+E:\FINAL_AUS\DataEngineer\DataEngineer\obj\Debug\DataEngineer.csprojResolveAssemblyReference.cache
+E:\FINAL_AUS\DataEngineer\DataEngineer\obj\Debug\DataEngineer.exe
+E:\FINAL_AUS\DataEngineer\DataEngineer\obj\Debug\DataEngineer.pdb
+E:\FINAL_AUS\DataEngineer\DataEngineer\bin\Debug\CsvHelper.dll
+E:\FINAL_AUS\DataEngineer\DataEngineer\bin\Debug\CsvHelper.xml
